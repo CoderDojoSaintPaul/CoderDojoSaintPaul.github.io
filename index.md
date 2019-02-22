@@ -4,7 +4,7 @@ layout: default
 
 ## Welcome to CoderDojo Saint Paul
 
-### Our Website is &quot;Under Constructions&quot; 🙄
+### Our Website is &quot;Under Construction&quot; 🙄
 
 In the mean time:
 

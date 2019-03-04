@@ -41,10 +41,12 @@ Jekyll Repo: https://github.com/jekyll/jekyll
 ### Useful Git Commands
 
 ```
+eval $(ssh-agent) # or https://help.github.com/en/articles/working-with-ssh-key-passphrases
 git clone git@github.com:USERNAME/CoderDojoSaintPaul.github.io.git
 git pull
 git remote add upstream git@github.com:CoderDojoSaintPaul/CoderDojoSaintPaul.github.io.git
 git fetch upstream
+git status
 git merge upstream/master
 git push origin master
 ```

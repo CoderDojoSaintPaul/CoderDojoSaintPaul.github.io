@@ -13,4 +13,6 @@ layout: default
 
 * Email us at <a target="_blank" href="mailto:saintpaul.us@coderdojo.com">saintpaul.us@coderdojo.com</a> with any questions.  (Some of the steps to sign up are clumsy.  We are here to help.)
 
+* CoderDojos are run by Volunteers like you!  <a target="_blank" href="https://zen.coderdojo.com/dojos/us/saint-paul-mn/saint-paul-sppl">Join our Dojo</a> or email us to sign up to Mentor or help with coordination.
+
 #### That's all for now.  Our Website is &quot;Under Construction&quot; 🙄

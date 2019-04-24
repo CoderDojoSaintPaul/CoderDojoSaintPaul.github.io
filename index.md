@@ -15,4 +15,6 @@ layout: default
 
 * CoderDojos are run by Volunteers like you!  <a target="_blank" href="https://zen.coderdojo.com/dojos/us/saint-paul-mn/saint-paul-sppl">Join our Dojo</a> or email us to sign up to Mentor or help with coordination.
 
+* Support Us -- Like all CoderDojo clubs, CoderDojo Saint Paul is free for young people to attend, and run by Volunteers.  We do have some expenses, e.g., learning materials used during events and given to Ninjas to keep.  Though our host, the Saint Paul Public Library, is not yet setup to receive financial donations designated for CoderDojo Saint Paul use, we have setup a shopping wish list on Amazon at <a target="_blank" href="https://www.amazon.com/hz/wishlist/ls/13SRFBQPU6UJ5?ref_=wl_share">https://www.amazon.com/hz/wishlist/ls/13SRFBQPU6UJ5?ref_=wl_share</a> for folks to purchase items for CoderDojo Ninjas.
+
 #### That's all for now.  Our Website is &quot;Under Construction&quot; 🙄

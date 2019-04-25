@@ -4,7 +4,7 @@ layout: default
 
 ## Welcome to CoderDojo Saint Paul
 
-### Our next Events are on May 11, and June 1
+### Our next Events are on May 11 and June 1, from 11:30a to 2:30p, at <a target="_blank" href="https://sppl.org/locations/C/">George Latimer Central Library</a>.
 ### Register! &#61;&#61;&gt; <a target="_blank" href="https://zen.coderdojo.com/dojos/us/saint-paul-mn/saint-paul-sppl">https://zen.coderdojo.com/dojos/us/saint-paul-mn/saint-paul-sppl</a>
 
 * Learn more about what we do on our Wiki at <a target="_blank" href="https://wiki.coderdojosaintpaul.org">https://wiki.CoderDojoSaintPaul.org</a>

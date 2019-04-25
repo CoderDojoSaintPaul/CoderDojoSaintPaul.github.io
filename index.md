@@ -24,7 +24,7 @@ layout: default
       <li>When donating, in the Designation section, select "Other", and type in "CoderDojo".</li>
     </ol>
   </li>
-  <li>We also setup a shopping wish list on Amazon at <a target="_blank" href="https://www.amazon.com/hz/wishlist/ls/13SRFBQPU6UJ5?ref_=wl_share">https://www.amazon.com/hz/wishlist/ls/13SRFBQPU6UJ5?ref_=wl_share</a> for folks to purchase items for CoderDojo Ninjas.  Just purchase from the list, and the item will be sent to us.</li>
+  <li>We also setup a shopping wish list on Amazon at <a target="_blank" href="https://www.amazon.com/hz/wishlist/ls/13SRFBQPU6UJ5?ref_=wl_share">https://www.amazon.com/hz/wishlist/ls/13SRFBQPU6UJ5?ref_=wl_share</a>, filled with items for CoderDojo Ninjas.  Just purchase from the list, and the item(s) will be sent to us.</li>
 </ol>
 
 #### That's all for now.  Our Website is &quot;Under Construction&quot; 🙄

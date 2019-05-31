@@ -4,7 +4,7 @@ layout: default
 
 ## Welcome to CoderDojo Saint Paul
 
-### Our next Events are on May 11 and June 1
+### Our last Event of Spring 2019 is on June 1
 
 * Events run from 11:30a to 2:30p, at <a target="_blank" href="https://sppl.org/locations/C/">George Latimer Central Library</a>.
 

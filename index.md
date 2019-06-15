@@ -8,7 +8,7 @@ layout: default
 
 * Fall 2019 Events will run from 1:00p to 4:00p, at <a target="_blank" href="https://sppl.org/locations/C/">George Latimer Central Library</a>, on September 21, October 19, November 16, and December 21.
 
-### Register (open in September)! &#61;&#61;&gt; <a target="_blank" href="https://zen.coderdojo.com/dojos/us/saint-paul-mn/saint-paul-sppl">https://zen.coderdojo.com/dojos/us/saint-paul-mn/saint-paul-sppl</a>
+### Registration will open in September &#61;&#61;&gt; <a target="_blank" href="https://zen.coderdojo.com/dojos/us/saint-paul-mn/saint-paul-sppl">https://zen.coderdojo.com/dojos/us/saint-paul-mn/saint-paul-sppl</a>
 
 * Learn more about what we do on our Wiki at <a target="_blank" href="https://wiki.coderdojosaintpaul.org">https://wiki.CoderDojoSaintPaul.org</a>
 

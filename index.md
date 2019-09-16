@@ -4,11 +4,11 @@ layout: default
 
 ## Welcome to CoderDojo Saint Paul
 
-### Spring 2019 Events have ended.  Our Events will resume in September, on the third Saturday each month through December.
+### Events this Fall (of 2019) are monthly, on the third Saturday each month through December.
 
-* Fall 2019 Events will run from 1:00p to 4:00p, at <a target="_blank" href="https://sppl.org/locations/C/">George Latimer Central Library</a>, on September 21, October 19, November 16, and December 21.
+* Events run from 1:00p to 4:00p, at <a target="_blank" href="https://sppl.org/locations/C/">George Latimer Central Library</a>, on September 21, October 19, November 16, and December 21.
 
-### Registration will open in September &#61;&#61;&gt; <a target="_blank" href="https://zen.coderdojo.com/dojos/us/saint-paul-mn/saint-paul-sppl">https://zen.coderdojo.com/dojos/us/saint-paul-mn/saint-paul-sppl</a>
+### Register for Events &#61;&#61;&gt; <a target="_blank" href="https://zen.coderdojo.com/dojos/us/saint-paul-mn/saint-paul-sppl">https://zen.coderdojo.com/dojos/us/saint-paul-mn/saint-paul-sppl</a>
 
 * Learn more about what we do on our Wiki at <a target="_blank" href="https://wiki.coderdojosaintpaul.org">https://wiki.CoderDojoSaintPaul.org</a>
 

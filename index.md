@@ -4,9 +4,9 @@ layout: default
 
 ## Welcome to CoderDojo Saint Paul
 
-### Events this Fall (of 2019) are monthly, on the third Saturday each month through December.
+### Events this Fall (of 2019) are on the third Saturday each month through December.
 
-* TIME CHANGE: Events run from 1:30 PM to 4:30 PM, at <a target="_blank" href="https://sppl.org/locations/C/">George Latimer Central Library</a>, on October 19, November 16, and December 21.
+* TIME CHANGE: Events run from 1:30 PM to 4:30 PM, at <a target="_blank" href="https://sppl.org/locations/C/">George Latimer Central Library</a>, on November 16, and December 21.
 
 ### Register for Events &#61;&#61;&gt; <a target="_blank" href="https://zen.coderdojo.com/dojos/us/saint-paul-mn/saint-paul-sppl">https://zen.coderdojo.com/dojos/us/saint-paul-mn/saint-paul-sppl</a>
 

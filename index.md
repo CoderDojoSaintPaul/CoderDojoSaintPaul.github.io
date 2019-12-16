@@ -6,7 +6,9 @@ layout: default
 
 ### Events this Fall (of 2019) are on the third Saturday each month through December.
 
-* TIME CHANGE: Events run from 1:30 PM to 4:30 PM, at <a target="_blank" href="https://sppl.org/locations/C/">George Latimer Central Library</a>, on November 16, and December 21.
+* Our last Event of 2019 is this Saturday, December 21.  It will run from 1:30 PM to 4:30 PM, at <a target="_blank" href="https://sppl.org/locations/C/">George Latimer Central Library</a>.
+
+* We will post the schedule for the first part of 2020, soon.
 
 ### Register for Events &#61;&#61;&gt; <a target="_blank" href="https://zen.coderdojo.com/dojos/us/saint-paul-mn/saint-paul-sppl">https://zen.coderdojo.com/dojos/us/saint-paul-mn/saint-paul-sppl</a>
 

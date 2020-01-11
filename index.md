@@ -9,12 +9,12 @@ layout: default
 * Events will run from 1:30 PM to 4:30 PM, at <a target="_blank" href="https://sppl.org/locations/C/">George Latimer Central Library</a>.
 
 * Events are planned for the following dates:
-January 19
-February 16 (3rd Sunday)
-March 15 (3rd Sunday)
-April 12 (2nd Sunday) -- Also in April, look for <a target="_blank" href="https://theworks.org/robot-day/">Robot Day at The Works Museum</a>.  (Date not yet posted.)
-May 17 (3rd Sunday) --  May 10 is Mother's Day.  (Hug your mother.)
-June 7
+** January 19
+** February 16 (3rd Sunday)
+** March 15 (3rd Sunday)
+** April 12 (2nd Sunday) -- Also in April, look for <a target="_blank" href="https://theworks.org/robot-day/">Robot Day at The Works Museum</a>.  (Date not yet posted.)
+** May 17 (3rd Sunday) --  May 10 is Mother's Day.  (Hug your mother.)
+** June 7
 
 ### Register for Events &#61;&#61;&gt; <a target="_blank" href="https://zen.coderdojo.com/dojos/us/saint-paul-mn/saint-paul-sppl">https://zen.coderdojo.com/dojos/us/saint-paul-mn/saint-paul-sppl</a>
 

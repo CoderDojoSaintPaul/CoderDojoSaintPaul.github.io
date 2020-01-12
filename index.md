@@ -7,15 +7,18 @@ layout: default
 ### NOTE CHANGE OF DAY: Events this Winter and Spring of 2020 will be on Sundays!
 
 * Events will run from 1:30 PM to 4:30 PM, at <a target="_blank" href="https://sppl.org/locations/C/">George Latimer Central Library</a>.
-
-* Events are planned for the following dates:
-** January 19
-** February 16 (3rd Sunday)
-** March 15 (3rd Sunday)
-** April 12 (2nd Sunday) -- Also in April, look for <a target="_blank" href="https://theworks.org/robot-day/">Robot Day at The Works Museum</a>.  (Date not yet posted.)
-** May 17 (3rd Sunday) --  May 10 is Mother's Day.  (Hug your mother.)
-** June 7
-
+<ul>
+  <li>Events are planned for the following dates:
+    <ul>
+      <li>January 19</li>
+      <li>February 16 (3rd Sunday)</li>
+      <li>March 15 (3rd Sunday)</li>
+      <li>April 12 (2nd Sunday) -- Also in April, look for <a target="_blank" href="https://theworks.org/robot-day/">Robot Day at The Works Museum</a>.  (Date not yet posted.)</li>
+      <li>May 17 (3rd Sunday) --  May 10 is Mother's Day.  (Hug your mother.)</li>
+      <li>June 7</li>
+    </ul>
+  </li>
+</ul>
 ### Register for Events &#61;&#61;&gt; <a target="_blank" href="https://zen.coderdojo.com/dojos/us/saint-paul-mn/saint-paul-sppl">https://zen.coderdojo.com/dojos/us/saint-paul-mn/saint-paul-sppl</a>
 
 * Learn more about what we do on our Wiki at <a target="_blank" href="https://wiki.coderdojosaintpaul.org">https://wiki.CoderDojoSaintPaul.org</a>

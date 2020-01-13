@@ -10,12 +10,12 @@ layout: default
 <ul>
   <li>Events are planned for the following dates:
     <ul>
-      <li>January 19</li>
+      <li>January 19 (3rd Sunday)</li>
       <li>February 16 (3rd Sunday)</li>
       <li>March 15 (3rd Sunday)</li>
-      <li>April 12 (2nd Sunday) -- Also in April, look for <a target="_blank" href="https://theworks.org/robot-day/">Robot Day at The Works Museum</a>.  (Date not yet posted.)</li>
+      <li>April 19 (3rd Sunday) -- Also in April, look for us at <a target="_blank" href="https://theworks.org/robot-day/">Robot Day at The Works Museum</a>.  (Date not yet posted.)</li>
       <li>May 17 (3rd Sunday) --  May 10 is Mother's Day.  (Hug your mother.)</li>
-      <li>June 7</li>
+      <li>June 7 (1st Sunday)</li>
     </ul>
   </li>
 </ul>

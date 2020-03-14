@@ -8,11 +8,11 @@ layout: default
 
 * Events will run from 1:30 PM to 4:30 PM, at <a target="_blank" href="https://sppl.org/locations/C/">George Latimer Central Library</a>.
 <ul>
-  <li>Events are planned for the following dates:
+  <li>Our 2020 Winter/Spring Schedule:
     <ul>
       <li>January 19 (3rd Sunday)</li>
       <li>February 16 (3rd Sunday)</li>
-      <li>March 15 (3rd Sunday)</li>
+      <li>March 15 (3rd Sunday) -- CANCELED -- Saint Paul Public Library suspended all programs March 14 through March 31.  More information is available at <a target="_blank" href="https://sppl.org/coronavirus/">https://sppl.org/coronavirus/</a></li>
       <li>April 19 (3rd Sunday) -- Also in April, look for us at <a target="_blank" href="https://theworks.org/robot-day/">Robot Day at The Works Museum</a>.  (Date not yet posted.)</li>
       <li>May 17 (3rd Sunday) --  May 10 is Mother's Day.  (Hug your mother.)</li>
       <li>June 7 (1st Sunday)</li>

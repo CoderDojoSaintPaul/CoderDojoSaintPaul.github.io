@@ -4,18 +4,19 @@ layout: default
 
 ## Welcome to CoderDojo Saint Paul
 
-### NOTE CHANGE OF DAY: Events this Winter and Spring of 2020 will be on Sundays!
+### NOTE: Events this Spring of 2020 are canceled.
 
 * Events will run from 1:30 PM to 4:30 PM, at <a target="_blank" href="https://sppl.org/locations/C/">George Latimer Central Library</a>.
 <ul>
-  <li>Our 2020 Winter/Spring Schedule:
+  <li>Our 2020/21 Fall/Winter Schedule:
     <ul>
-      <li>January 19 (3rd Sunday)</li>
-      <li>February 16 (3rd Sunday)</li>
-      <li>March 15 (3rd Sunday) -- CANCELED -- Saint Paul Public Library suspended all programs March 14 through March 31.  More information is available at <a target="_blank" href="https://sppl.org/coronavirus/">https://sppl.org/coronavirus/</a></li>
-      <li>April 19 (3rd Sunday) -- Also in April, look for us at <a target="_blank" href="https://theworks.org/robot-day/">Robot Day at The Works Museum</a>.  (Date not yet posted.)</li>
-      <li>May 17 (3rd Sunday) --  May 10 is Mother's Day.  (Hug your mother.)</li>
-      <li>June 7 (1st Sunday)</li>
+      <li>September 20 (3rd Sunday)</li>
+      <li>October 25 (4th Sunday)</li>
+      <li>November 15 (3rd Sunday)</li>
+      <li>December 20 (3rd Sunday)</li>
+      <li>January 24 (4th Sunday)</li>
+      <li>February 21 (3rd Sunday)</li>
+      <li>March 14 (2nd Sunday)</li>
     </ul>
   </li>
 </ul>

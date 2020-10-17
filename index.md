@@ -4,22 +4,8 @@ layout: default
 
 ## Welcome to CoderDojo Saint Paul
 
-### NOTE: Events this Spring of 2020 are canceled.
+### NOTE: Events for this Fall of 2020 are canceled.
 
-* Events will run from 1:30 PM to 4:30 PM, at <a target="_blank" href="https://sppl.org/locations/C/">George Latimer Central Library</a>.
-<ul>
-  <li>Our 2020/21 Fall/Winter Schedule:
-    <ul>
-      <li>September 20 (3rd Sunday)</li>
-      <li>October 25 (4th Sunday)</li>
-      <li>November 15 (3rd Sunday)</li>
-      <li>December 20 (3rd Sunday)</li>
-      <li>January 24 (4th Sunday)</li>
-      <li>February 21 (3rd Sunday)</li>
-      <li>March 14 (2nd Sunday)</li>
-    </ul>
-  </li>
-</ul>
 ### Register for Events &#61;&#61;&gt; <a target="_blank" href="https://zen.coderdojo.com/dojos/us/saint-paul-mn/saint-paul-sppl">https://zen.coderdojo.com/dojos/us/saint-paul-mn/saint-paul-sppl</a>
 
 * Learn more about what we do on our Wiki at <a target="_blank" href="https://wiki.coderdojosaintpaul.org">https://wiki.CoderDojoSaintPaul.org</a>
